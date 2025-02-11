@@ -5,7 +5,7 @@
 ## Русский
 
 ### Описание
-В файлах находится таблица Cheat Engine под названием `Fly Corp.CT`. Для её использования выполните следующие шаги:
+В файлах находится таблица Cheat Engine под названием `Fly Corp <ваша версия игры>.CT`. Для её использования выполните следующие шаги:
 
 ### Шаги
 1. **Запустите игру.**
@@ -14,7 +14,7 @@
 4. **Выберите процесс с игрой.**
 5. **Загрузите таблицу:**
    - В Cheat Engine выберите **File** → **Open**.
-   - Выберите файл `Fly Corp.CT`.
+   - Выберите файл `Fly Corp <ваша версия игры>.CT`.
 6. **Изучите таблицу параметров:**
    - В нижней части окна появится таблица с изменяемыми параметрами.
 7. **Параметр "Disable minus money":**
@@ -25,7 +25,7 @@
 ## English
 
 ### Description
-The files contain a Cheat Engine table file named `Fly Corp.CT`. To use it, follow these steps:
+The files contain a Cheat Engine table file named `Fly Corp <your game version>.CT`. To use it, follow these steps:
 
 ### Steps
 1. **Launch the game.**
@@ -34,7 +34,7 @@ The files contain a Cheat Engine table file named `Fly Corp.CT`. To use it, foll
 4. **Select the game process.**
 5. **Load the table:**
    - In Cheat Engine, select **File** → **Open**.
-   - Choose the file `Fly Corp.CT`.
+   - Choose the file `Fly Corp <your game version>.CT`.
 6. **Review the parameter table:**
    - A table with editable parameters will appear at the bottom of the window.
 7. **Parameter "Disable minus money":**
